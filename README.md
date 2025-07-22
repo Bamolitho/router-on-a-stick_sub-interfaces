@@ -7,7 +7,9 @@ Envie de tester ? Le fichier Packet Tracer (.pkt) du TP est dispo ici 👉 https
 
 \#Cisco #PacketTracer #Networking #RouterOnAStick #VLAN #Cybersecurity #FormationIngenieur #CCNA
 
+**TP réalisé dans le cadre du BamLab**
 
+Ce TP a été conçu et documenté par **Amolitho Balde**, au sein du **BamLab** – un laboratoire personnel d’expérimentations en réseaux, cybersécurité et ingénierie.  
 
 # TP Réseaux Cisco – Router-on-a-Stick avec Sub-Interfaces
 
