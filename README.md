@@ -1,16 +1,3 @@
-**Une seule interface… pour trois VLANs !?**
-Eh oui, c’est possible grâce à la magie du **Router-on-a-Stick** 
-Aujourd’hui, j’ai mis en place un TP Cisco où **une seule interface physique sur le routeur** devient **trois passerelles logiques** pour permettre la communication inter-VLAN.
-Résultat ? VLAN10, VLAN20, et VLAN30 se parlent comme s’ils étaient sur le même réseau 
-
-Envie de tester ? Le fichier Packet Tracer (.pkt) du TP est dispo ici 👉 https://github.com/Bamolitho/router-on-a-stick_sub-interfaces 
-
-\#Cisco #PacketTracer #Networking #RouterOnAStick #VLAN #Cybersecurity #FormationIngenieur #CCNA
-
-**TP réalisé dans le cadre du BamLab**
-
-Ce TP a été conçu et documenté par **Amolitho Balde**, au sein du **BamLab** – un laboratoire personnel d’expérimentations en réseaux, cybersécurité et ingénierie.  
-
 # TP Réseaux Cisco – Router-on-a-Stick avec Sub-Interfaces
 
 ## Objectif
